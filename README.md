@@ -1,7 +1,6 @@
 # Google Search Tool
 
-Jednoduchá a rychlá webová aplikace pro získávání a export organických výsledků vyhledávání z Googlu. Projekt byl vytvořen jako technické zadání pro společnost INIZIO Internet Media s.r.o.
-
+Jednoduchá a rychlá webová aplikace pro získávání a export organických výsledků vyhledávání z Googlu. 
 ## Klíčové vlastnosti
 
 * **Vyhledávání v reálném čase** – Získání TOP 10 organických výsledků z první stránky Googlu pro český region a v češtině.
